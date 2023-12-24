@@ -1,0 +1,272 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap-grid.min.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\ajax\libs\bootstrap\4.6.1\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\index.htm
+Content Type: text/html
+
+Uri: https://mini-pila.shoptop.space/css/contactform.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\contactform.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/css/css2.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\css2.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/css/header.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\header.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/css/reset.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\reset.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/css/styles.css
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\css\styles.css
+Content Type: text/css
+
+Uri: https://mini-pila.shoptop.space/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: application/octet-stream
+
+Uri: https://mini-pila.shoptop.space/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: application/octet-stream
+
+Uri: https://mini-pila.shoptop.space/images/b2.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\b2.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/b3.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\b3.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/bg_light.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/big1.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\big1.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/big2.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\big2.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/big3.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\big3.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/call-girl.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\call-girl.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/call-phone.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\call-phone.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/offer1__discount_bg.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer1__discount_bg.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer1__timer_arrows.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer1__timer_arrows.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer2__discount_bg.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer2__discount_bg.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer3__benefit1_image.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer3__benefit1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/offer3__benefit2_image.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer3__benefit2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/offer3__benefit3_image.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer3__benefit3_image.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/offer3__discount_bg.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/opinion2_bg.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\opinion2_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/order1.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order1.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order2.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order2.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order3.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order3.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order4.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order4.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps1__step1_image.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps1__step1_image.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps1__step2_image.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps1__step2_image.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps1__step3_image.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps1__step3_image.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps1__step4_image.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps1__step4_image.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps2__step1_bg.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps2__step1_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/order_steps2__step2_bg.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps2__step2_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/order_steps2__step3_bg.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps2__step3_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/order_steps2__step4_bg.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps2__step4_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/order_steps__step1_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps__step2_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps__step3_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/order_steps__step4_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/owl.video.play.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\owl.video.play.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/quote1_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\quote1_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/quote2_icon.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\quote2_icon.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/rev1.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\rev1.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/rev2.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\rev2.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/rev3.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\rev3.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/reviews2__arrows.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\reviews2__arrows.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/reviews3__stars.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\reviews3__stars.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/reviews4_bg.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\reviews4_bg.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/reviews4__arrows.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\reviews4__arrows.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/select.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\select.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/separator_red.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\separator_red.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/separator_white.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\separator_white.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/images/siz2.jpg
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\siz2.jpg
+Content Type: image/jpeg
+
+Uri: https://mini-pila.shoptop.space/images/slider__arrows.png
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\images\slider__arrows.png
+Content Type: image/png
+
+Uri: https://mini-pila.shoptop.space/js/contactform.js
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\js\contactform.js
+Content Type: application/javascript
+
+Uri: https://mini-pila.shoptop.space/js/jquery.js
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://mini-pila.shoptop.space/js/maskedinput.js
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://mini-pila.shoptop.space/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://mini-pila.shoptop.space/js/scripts.js
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://mini-pila.shoptop.space/policy/index.php
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\policy\index.php.html
+Content Type: text/html
+
+Uri: https://mini-pila.shoptop.space/terms/index.php
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\terms\index.php.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=545656837453485&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\mini-pila.shoptop.space\tr
+Content Type: text/plain
+
